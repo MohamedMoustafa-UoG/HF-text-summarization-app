@@ -7,7 +7,7 @@ sdk: gradio
 sdk_version: 4.44.0
 app_file: app.py
 pinned: false
-license: CC0 1.0 Universal
+license: cc0-1.0
 short_description: AI-powered text summarization using Hugging Face's default model
 ---
 
